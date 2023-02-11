@@ -14,8 +14,8 @@ My research interests lie in optimization, machine learning, and game theory, wi
 My PhD work involved utilizing neural networks for finding Nash equilibria in game theory and solving nonlinear constrained optimization problems. 
 
 ## Education
-* B.S. in engineering, Civil Aviation University of China, 2013-2017.
-* M.S. in computer science, Peking university, 2017-2020.
+* B.S. in Engineering, Civil Aviation University of China, 2013-2017.
+* M.S. in Computer science, Peking university, 2017-2020.
 * Ph.D. Candidate in Applied mathmatics, Université Paris-Saclay, 2020-2023 (expected). Advisor: by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).
 
 ## Publications and Preprints
