@@ -14,11 +14,11 @@ My research interests lie in optimization, machine learning, and game theory, wi
 My PhD work involved utilizing neural networks for finding Nash equilibria in game theory and solving nonlinear constrained optimization problems. 
 
 ## Education
-* B.S. in Engineering, Civil Aviation University of China, 2013-2017.
-* M.S. in Computer science, Peking university, 2017-2020.
-* Ph.D. Candidate in Applied mathmatics, Université Paris-Saclay, 2020-2023 (expected). Advisor: by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).
+* B.E., Civil Aviation University of China, 2013-2017.
+* M.S. in Computer Science, Peking University, 2017-2020.
+* Ph.D. Candidate in Applied Mathmatics, Université Paris-Saclay, 2020-2023 (expected). Advisor: by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).
 
-## Publications and Preprints
+## Publications
 * CCGnet: A deep learning approach to predict Nash equilibrium of chance-constrained games, **Dawen Wu**, Abdel Lisser, Information Sciences (2023).
 
 * A deep learning approach for solving linear programming problems, **Dawen Wu**, Abdel Lisser, Neurocomputing (2023).
@@ -31,7 +31,7 @@ My PhD work involved utilizing neural networks for finding Nash equilibria in ga
 
 
 ## Academic Service
-* Invited Reviewer (Conference): IJCAI
+<!-- * Invited Reviewer (Conference): IJCAI -->
 * Invited Reviewer (Journal): IEEE TNNLS
 
 <!-- ## Teaching
