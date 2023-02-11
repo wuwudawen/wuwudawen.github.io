@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "wuwudawen"
 facebook:
-  username               :
+  username               : "wuwudawen"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Dawen Wu"
-  avatar           : "profile.png"
+  avatar           : "dwwu-photo.jpg"
   bio              : "dawen.wu@centralesupelec.fr"
-  location         : "Paris, France"
+  location         : "Paris France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?user=QzXplO8AAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     :  "https://www.researchgate.net/scientific-contributions/Dawen-Wu-2219147047"
+  email            : "dawen.wu@centralesupelec.fr"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "wuwudawen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
