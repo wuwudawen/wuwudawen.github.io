@@ -25,7 +25,7 @@ My PhD research focused on two main areas: (1) developing CNN-based models to pr
 
 2. [A deep learning approach for solving linear programming problems](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014412), **Dawen Wu**, Abdel Lisser, _Neurocomputing (2023)_.
  
-3. [MG-CNN: A Deep CNN To Predict Saddle Points Of Matrix Games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022003586), **Dawen Wu**, Abdel Lisser, Neural Networks (2022).
+3. [MG-CNN: A Deep CNN To Predict Saddle Points Of Matrix Games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022003586), **Dawen Wu**, Abdel Lisser, _Neural Networks (2022)_.
 
 4. [Using CNN for solving two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0957417422008648), **Dawen Wu**, Abdel Lisser, _Expert Systems With Applications (2022)_.
 
