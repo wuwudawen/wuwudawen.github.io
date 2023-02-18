@@ -18,18 +18,18 @@ My PhD research focused on two main areas: (1) developing CNN-based models to pr
 ## Education
 * B.E. in Safety Engineering, Civil Aviation University of China, 2013-2017.
 * M.S. in Computer Science, Peking University, 2017-2020.
-* Ph.D. Candidate in Applied Mathmatics, Université Paris-Saclay, 2020-2023 (expected). Advisor: by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).
+* Ph.D. Candidate in Applied Mathematics, Université Paris-Saclay, 2020-2023 (expected). Advisor: by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).
 
 ## Publications
-1. CCGnet: A deep learning approach to predict Nash equilibrium of chance-constrained games, **Dawen Wu**, Abdel Lisser, Information Sciences (2023).
+1. [CCGnet: A deep learning approach to predict Nash equilibrium of chance-constrained games](https://www.sciencedirect.com/science/article/abs/pii/S0020025523000646), **Dawen Wu**, Abdel Lisser, Information Sciences (2023).
 
-2. A deep learning approach for solving linear programming problems, **Dawen Wu**, Abdel Lisser, Neurocomputing (2023).
+2. [A deep learning approach for solving linear programming problems](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014412), **Dawen Wu**, Abdel Lisser, Neurocomputing (2023).
  
-3. MG-CNN: A Deep CNN To Predict Saddle Points Of Matrix Games, **Dawen Wu**, Abdel Lisser, Neural Networks (2022).
+3. [MG-CNN: A Deep CNN To Predict Saddle Points Of Matrix Games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022003586), **Dawen Wu**, Abdel Lisser, Neural Networks (2022).
 
-4. Using CNN for solving two-player zero-sum games, **Dawen Wu**, Abdel Lisser, Expert Systems With Applications (2022).
+4. [Using CNN for solving two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0957417422008648), **Dawen Wu**, Abdel Lisser, Expert Systems With Applications (2022).
 
-5. A dynamical neural network approach for solving stochastic two-player zero-sum games, **Dawen Wu**, Abdel Lisser, Neural Networks (2022). 
+5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, Neural Networks (2022). 
 
 
 ## Academic Service
