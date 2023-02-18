@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Dawen Wu (吴达文), a Ph.D. candidate in Université Paris-Saclay, CNRS, CentraleSupélec, Laboratoire des signaux et systèmes supervised by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/). Before that, I received my Master’s degree in computer science from Peking University. 
+I am Dawen Wu (吴达文), a Ph.D. candidate in [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), CNRS, CentraleSupélec, [Laboratory of
+Signals and Systems](https://l2s.centralesupelec.fr/en/) supervised by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/). Before that, I received my Master’s degree in computer science from [Peking University](https://english.pku.edu.cn/). 
 
-My research interests lie in optimization, machine learning, and game theory, with a focus on using deep learning to solve complex optimization problems. 
-My PhD work involved utilizing neural networks for finding Nash equilibria in game theory and solving nonlinear constrained optimization problems. 
+My research interests focus on optimization, machine learning, and game theory. 
+
+During my PhD, I conducted research in two main areas. The first area involved developing CNN-based neural networks to predict Nash equilibria in game theory. The second area involved using Physics-Informed Neural Networks (PINNs) to solve challenging nonlinear constrained optimization problems.
 
 ## Education
-* B.E., Civil Aviation University of China, 2013-2017.
+* B.E. in Safety Engineering, Civil Aviation University of China, 2013-2017.
 * M.S. in Computer Science, Peking University, 2017-2020.
 * Ph.D. Candidate in Applied Mathmatics, Université Paris-Saclay, 2020-2023 (expected). Advisor: by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).
 
