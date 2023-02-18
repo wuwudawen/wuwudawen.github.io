@@ -16,7 +16,7 @@ My research interests focus on optimization, machine learning, and game theory.
 My PhD research focused on two main areas: (1) developing CNN-based models to predict Nash equilibria in game theory, and (2) applying Physics-Informed Neural Networks to solve challenging nonlinear constrained optimization problems. My publications 1, 3, 4 focus on the first area, while publications 2 and 5 focus on the second.
 
 ## Education
-* B.E. in Safety Engineering, Civil Aviation University of China, 2013-2017.
+* B.S. in School of Economics and Management, Civil Aviation University of China, 2013-2017.
 * M.S. in Computer Science, Peking University, 2017-2020.
 * Ph.D. Candidate in Applied Mathematics, Université Paris-Saclay, 2020-2023 (expected). Advisor: by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).
 
