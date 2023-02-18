@@ -44,3 +44,9 @@ My PhD research focused on two main areas: (1) developing CNN-based models to pr
 
 ## Miscellaneous
 * **Sports**: badminton, basketball, swimming. I won the Team champion of freshman badminton competition in Peking University.  -->
+
+## Skills
+
+* Languages: Cantonese (Native), Mandarin (Native), English (Fluent), French(Beginner).
+* Programming: Python, Julia.
+* Machine Learning: PyTorch, Scikit-learn, JAX.
