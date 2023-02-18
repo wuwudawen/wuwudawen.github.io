@@ -13,7 +13,7 @@ Signals and Systems](https://l2s.centralesupelec.fr/en/) supervised by Prof. [Ab
 
 My research interests focus on optimization, machine learning, and game theory. 
 
-During my PhD, I conducted research in two main areas. The first area involved developing CNN-based neural networks to predict Nash equilibria in game theory. The second area involved using Physics-Informed Neural Networks (PINNs) to solve challenging nonlinear constrained optimization problems.
+My PhD research focused on two main areas: (1) developing CNN-based models to predict Nash equilibria in game theory, and (2) applying Physics-Informed Neural Networks to solve challenging nonlinear constrained optimization problems. My publications 1, 3, 4 focus on the first area, while publications 2 and 5 focus on the second.
 
 ## Education
 * B.E. in Safety Engineering, Civil Aviation University of China, 2013-2017.
