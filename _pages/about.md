@@ -18,8 +18,10 @@ My PhD research focused on two main areas: (1) developing CNN-based models to pr
 ## Education
 * B.S. in School of Economics and Management, Civil Aviation University of China, 2013-2017.
 * M.S. in Computer Science, Peking University, 2017-2020.  
+Advisor: Prof. [Zhong Chen](https://infosec.pku.edu.cn/zsxx/bszs/index.htm).  
 Selected coures: 1) Convex optimization, 2) Machine learning, 3) Reinforcement learning
-* Ph.D. Candidate in Applied Mathematics, Université Paris-Saclay, 2020-2023 (Expected to graduate in Oct. 2023). Advisor: by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).  
+* Ph.D. Candidate in Applied Mathematics, Université Paris-Saclay, 2020-2023 (Expected to graduate in Oct. 2023).  
+Advisor: Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).  
 Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr/Jean-Charles.Gilbert/ipp/optim.html), 2) [Optimization and statistical learning](https://www.di.ens.fr/~fbach/orsay2021.html), 3) Stability of nonlinear systems.
 
 ## Publications
