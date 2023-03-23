@@ -36,7 +36,7 @@ Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr
 5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, _Neural Networks (2022)_. 
 
 ## Prsentations
-* Laboratoire des Signaux et Systèmes (L2S) PhD students day, Gif-sur-Yvette, Sep. 15, 2022
+* Laboratoire des Signaux et Systèmes (L2S) PhD students day, Gif-sur-Yvette, Sep. 15, 2022\\
 **Slide:**  Optimization-informed neural networks
 * ECSO-CMS-2022 Conference, Venice, July 1, 2022
 **Slide:**  A dynamical neural network approach for solving stochastic two-player zero-sum games
