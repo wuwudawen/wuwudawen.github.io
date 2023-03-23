@@ -37,13 +37,13 @@ Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr
 
 ## Prsentations
 * Laboratoire des Signaux et Systèmes (L2S) PhD students day, Gif-sur-Yvette, Sep. 15, 2022
-\textbf{Slide:} Optimization-informed neural networks
+**Slide:**  Optimization-informed neural networks
 * ECSO-CMS-2022 Conference, Venice, July 1, 2022
-\textbf{Slide:} A dynamical neural network approach for solving stochastic two-player zero-sum games
+**Slide:**  A dynamical neural network approach for solving stochastic two-player zero-sum games
 * CSC - POLYTECH workshop, Paris, May 23, 2022
-\textbf{Slide:} Using cnn for solving two-player zero-sum games
+**Slide:**  Using cnn for solving two-player zero-sum games
 * Laboratoire des Signaux et Systèmes (L2S) PhD students day, Gif-sur-Yvette, Sep. 23, 2021
-\textbf{Poster:} Using cnn for solving two-player zero-sum games
+**Poster:**  Using cnn for solving two-player zero-sum games
 
 ## Academic Service
 <!-- * Invited Reviewer (Conference): IJCAI -->
