@@ -35,19 +35,21 @@ Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr
 
 5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, _Neural Networks (2022)_. 
 
+## Prsentations
+* Laboratoire des Signaux et Systèmes (L2S) PhD students day, Gif-sur-Yvette, Sep. 15, 2022
+\textbf{Slide:} Optimization-informed neural networks
+* ECSO-CMS-2022 Conference, Venice, July 1, 2022
+\textbf{Slide:} A dynamical neural network approach for solving stochastic two-player zero-sum games
+* CSC - POLYTECH workshop, Paris, May 23, 2022
+\textbf{Slide:} Using cnn for solving two-player zero-sum games
+* Laboratoire des Signaux et Systèmes (L2S) PhD students day, Gif-sur-Yvette, Sep. 23, 2021
+\textbf{Poster:} Using cnn for solving two-player zero-sum games
 
 ## Academic Service
 <!-- * Invited Reviewer (Conference): IJCAI -->
 * Invited Reviewer (Journal): IEEE TNNLS
 
-<!-- ## Teaching
-* TA of _Mathematics in AI_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Spring 2022.  
-* TA of _Discrete Math (II) and Interactions_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Spring 2021.  
-* TA of [_Deep Generative Models_](https://deep-generative-models.github.io/) by Prof. [Hao Dong](https://zsdonghao.github.io/), Spring 2020.  
-* TA of _Algorithm Design and Analysis (Honor Track)_ by Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/), Spring 2019.  
 
-## Miscellaneous
-* **Sports**: badminton, basketball, swimming. I won the Team champion of freshman badminton competition in Peking University.  -->
 
 ## Skills
 
