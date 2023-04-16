@@ -33,7 +33,7 @@ Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr
 
 4. [Using CNN for solving two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0957417422008648), **Dawen Wu**, Abdel Lisser, Expert Systems With Applications, 2022. $\color{red}\textbf{\textit{(JCR: Q1, IF: 8.7)}}$
  
-5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. $\color{red}\textbf{\textit{(JCR: Q1, IF: 9.6)}}$
+5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. _(JCR: Q1, IF: 9.6)_
 
 
 
