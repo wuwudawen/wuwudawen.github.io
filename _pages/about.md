@@ -27,7 +27,7 @@ Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr
 ## Publications
 1. [CCGnet: A deep learning approach to predict Nash equilibrium of chance-constrained games](https://www.sciencedirect.com/science/article/abs/pii/S0020025523000646), **Dawen Wu**, Abdel Lisser, Information Sciences, 2023. **_(JCR Q1, IF: 8.2)_**
 
-2. [A deep learning approach for solving linear programming problems](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014412), **Dawen Wu**, Abdel Lisser, Neurocomputing, 2023. **_(JCR Q1, IF: 5.8)_** $${\color{red}Red}$$	
+2. [A deep learning approach for solving linear programming problems](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014412), **Dawen Wu**, Abdel Lisser, Neurocomputing, 2023. **\color{red}_(JCR Q1, IF: 5.8)_** 
  
 3. [MG-CNN: A Deep CNN To Predict Saddle Points Of Matrix Games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022003586), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. **_(JCR Q1, IF: 9.6)_**
 
