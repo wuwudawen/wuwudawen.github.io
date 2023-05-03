@@ -49,7 +49,10 @@ Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr
 
 ## Academic Service
 <!-- * Invited Reviewer (Conference): IJCAI -->
-* Invited Reviewer (Journal): IEEE TNNLS
+Invited Reviewer (Journal): 
+  * IEEE Transactions on Neural Networks and Learning Systems
+  * European Journal of Control
+  * Journal of Global Optimization
 
 
 
