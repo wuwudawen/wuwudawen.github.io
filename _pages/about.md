@@ -58,6 +58,6 @@ Invited Reviewer (Journal):
 
 ## Skills
 
-* Languages: Cantonese (Native), Mandarin (Native), English (Fluent), French(Good enough to survive in [CROUS](https://www.crous-versailles.fr/restaurant/ru-centralesupelec-breguet/)).
+* Languages: Cantonese (Native), Mandarin (Native), English (Fluent), French (Good enough to survive in [CROUS](https://www.crous-versailles.fr/restaurant/ru-centralesupelec-breguet/)).
 * Programming: Python, Julia.
 * Machine Learning: PyTorch, JAX.
