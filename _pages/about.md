@@ -11,9 +11,12 @@ redirect_from:
 I am Dawen Wu (吴达文), a Ph.D. candidate in [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), CNRS, CentraleSupélec, [Laboratory of
 Signals and Systems](https://l2s.centralesupelec.fr/en/) supervised by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/). Before that, I received my Master’s degree in computer science from [Peking University](https://english.pku.edu.cn/). 
 
-My research interests focus on optimization, machine learning, and game theory. 
+My academic background is in applied mathematics, with research interests encompassing optimization, game theory, and machine learning.
 
-My PhD research focused on two main areas: (1) developing CNN-based models to predict Nash equilibria in game theory, and (2) applying Physics-Informed Neural Networks to solve challenging nonlinear constrained optimization problems. My publications 1, 3, 4 focus on the first area, while publications 2 and 5 focus on the second.
+My Ph.D. research is aimed at leveraging machine learning models to tackle various challenging optimization problems. 
+It can be divided into two main parts: 
+* (1) employing CNN-based models to predict Nash equilibria in game theory, as explored in publications 1, 3, and 4; 
+* (2) utilizing Physics-Informed Neural Networks to address constrained optimization problems, including but not limited to convex optimization, which is the focus of publications 2 and 5.
 
 ## Education
 * **B.S.** in School of Economics and Management, Civil Aviation University of China, 2013-2017.
