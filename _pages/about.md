@@ -27,7 +27,7 @@ My Ph.D. research focuses on leveraging machine learning models to tackle variou
             Advisor: Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).  
             Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr/Jean-Charles.Gilbert/ipp/optim.html), 2) [Optimization and statistical learning](https://www.di.ens.fr/~fbach/orsay2021.html), 3) Stability of nonlinear systems.
 
-## Publications
+## Publications and Undergoing papers
 1. [CCGnet: A deep learning approach to predict Nash equilibrium of chance-constrained games](https://www.sciencedirect.com/science/article/abs/pii/S0020025523000646), **Dawen Wu**, Abdel Lisser, Information Sciences, 2023. **_(JCR: Q1, IF: 8.2)_**
 
 2. [A deep learning approach for solving linear programming problems](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014412), **Dawen Wu**, Abdel Lisser, Neurocomputing, 2023. **_(JCR: Q1, IF: 5.8)_**
@@ -38,7 +38,6 @@ My Ph.D. research focuses on leveraging machine learning models to tackle variou
  
 5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. **_(JCR: Q1, IF: 9.6)_**
 
-## Undergoing papers
 6. Improved Saddle Point Prediction in Stochastic Two-Player Zero-Sum Games with a Deep Learning Approach, **Dawen Wu**, Abdel Lisser, Engineering Applications of Artificial Intelligence. **_(Major revision)_**
 
 7. Enhancing Neurodynamic Approach with Physics-Informed Neural Networks for Solving Non-Smooth Convex Optimization Problems, **Dawen Wu**, Abdel Lisser, Neural Networks. **_(Major revision)_**
