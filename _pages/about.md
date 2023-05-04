@@ -14,8 +14,8 @@ Signals and Systems](https://l2s.centralesupelec.fr/en/) supervised by Prof. [Ab
 My academic background is in applied mathematics, with research interests encompassing optimization, game theory, and machine learning.
 
 My Ph.D. research focuses on leveraging machine learning models to tackle various challenging optimization problems and can be divided into two main parts:
-(1) Employing CNN-based models to predict Nash equilibria in game theory, as explored in publications 1, 3, and 4.
-(2) Utilizing Physics-Informed Neural Networks to address constrained nonlinear optimization problems, including but not limited to convex optimization, which is the focus of publications 2 and 5.
+* (1) Employing CNN-based models to predict Nash equilibria in game theory, as explored in publications 1, 3, and 4.
+* (2) Utilizing Physics-Informed Neural Networks to address constrained nonlinear optimization problems, including but not limited to convex optimization, which is the focus of publications 2 and 5.
 
 ## Education
 * **B.S.** in School of Economics and Management, Civil Aviation University of China, 2013-2017.
