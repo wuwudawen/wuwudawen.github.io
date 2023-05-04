@@ -38,7 +38,16 @@ My Ph.D. research focuses on leveraging machine learning models to tackle variou
  
 5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. **_(JCR: Q1, IF: 9.6)_**
 
+## Undergoing papers
+6. Improved Saddle Point Prediction in Stochastic Two-Player Zero-Sum Games with a Deep Learning Approach, **Dawen Wu**, Abdel Lisser, Engineering Applications of Artificial Intelligence. **_(Major revision)_**
 
+7. Enhancing Neurodynamic Approach with Physics-Informed Neural Networks for Solving Non-Smooth Convex Optimization Problems, **Dawen Wu**, Abdel Lisser, Neural Networks. **_(Major revision)_**
+ 
+8. Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions, **Dawen Wu**, Abdel Lisser, International Journal for Numerical Methods in Engineering. **_(Under review)_**
+
+9. Parallel Solution of Nonlinear Projection Equations with Physics-Informed Neural Networks in a Multi-Task Learning Framework, **Dawen Wu**, Abdel Lisser, IEEE Transactions on Neural Networks and Learning Systems. **_(Under review)_**
+
+10. Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network, **Dawen Wu**, Abdel Lisser, IEEE Transactions on Artificial Intelligence. **_(Under review)_**
 
 ## Prsentations
 * Laboratoire des Signaux et Systèmes (L2S) PhD students day, Gif-sur-Yvette, Sep. 15, 2022  
