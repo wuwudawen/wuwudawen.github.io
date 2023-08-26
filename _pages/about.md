@@ -28,19 +28,19 @@ My Ph.D. research focuses on leveraging machine learning models to tackle variou
             Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr/Jean-Charles.Gilbert/ipp/optim.html), 2) [Optimization and statistical learning](https://www.di.ens.fr/~fbach/orsay2021.html), 3) Stability of nonlinear systems.
 
 ## Publications and Undergoing papers
-1. [CCGnet: A deep learning approach to predict Nash equilibrium of chance-constrained games](https://www.sciencedirect.com/science/article/abs/pii/S0020025523000646), **Dawen Wu**, Abdel Lisser, Information Sciences, 2023. **_(JCR: Q1, IF: 8.2)_**
+1. [CCGnet: A deep learning approach to predict Nash equilibrium of chance-constrained games](https://www.sciencedirect.com/science/article/abs/pii/S0020025523000646), **Dawen Wu**, Abdel Lisser, Information Sciences, 2023. **_(JCR: Q1, IF: 8.1)_**
 
-2. [A deep learning approach for solving linear programming problems](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014412), **Dawen Wu**, Abdel Lisser, Neurocomputing, 2023. **_(JCR: Q1, IF: 5.8)_**
+2. [A deep learning approach for solving linear programming problems](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014412), **Dawen Wu**, Abdel Lisser, Neurocomputing, 2023. **_(JCR: Q1, IF: 6.0)_**
  
-3. [MG-CNN: A Deep CNN To Predict Saddle Points Of Matrix Games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022003586), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. **_(JCR: Q1, IF: 9.6)_**
+3. [MG-CNN: A Deep CNN To Predict Saddle Points Of Matrix Games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022003586), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. **_(JCR: Q1, IF: 7.8)_**
 
-4. [Using CNN for solving two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0957417422008648), **Dawen Wu**, Abdel Lisser, Expert Systems With Applications, 2022. **_(JCR: Q1, IF: 8.7)_**
+4. [Using CNN for solving two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0957417422008648), **Dawen Wu**, Abdel Lisser, Expert Systems With Applications, 2022. **_(JCR: Q1, IF: 8.5)_**
  
-5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. **_(JCR: Q1, IF: 9.6)_**
+5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. **_(JCR: Q1, IF: 7.8)_**
 
-6. Improved Saddle Point Prediction in Stochastic Two-Player Zero-Sum Games with a Deep Learning Approach, **Dawen Wu**, Abdel Lisser, Engineering Applications of Artificial Intelligence. **_(Accepted, to appear)_**
+6. [Improved Saddle Point Prediction in Stochastic Two-Player Zero-Sum Games with a Deep Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0952197623008485), **Dawen Wu**, Abdel Lisser, Engineering Applications of Artificial Intelligence. **_(JCR: Q1, IF: 8.0)_**
 
-7. Enhancing Neurodynamic Approach with Physics-Informed Neural Networks for Solving Non-Smooth Convex Optimization Problems, **Dawen Wu**, Abdel Lisser, Neural Networks. **_(Major revision)_**
+7. Enhancing Neurodynamic Approach with Physics-Informed Neural Networks for Solving Non-Smooth Convex Optimization Problems, **Dawen Wu**, Abdel Lisser, Neural Networks. **_(Accept, to appear)_**
  
 8. Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions, **Dawen Wu**, Abdel Lisser, International Journal for Numerical Methods in Engineering. **_(Major revision)_**
 
