@@ -36,9 +36,9 @@ My Ph.D. research focuses on leveraging machine learning models to tackle variou
 
 4. [Using CNN for solving two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0957417422008648), **Dawen Wu**, Abdel Lisser, <ins>Expert Systems With Applications</ins>, 2022. **_(JCR: Q1, IF: 8.5)_**
  
-5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, Neural Networks</ins>, 2022. **_(JCR: Q1, IF: 7.8)_**
+5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, <ins>Neural Networks</ins>, 2022. **_(JCR: Q1, IF: 7.8)_**
 
-6. [Improved Saddle Point Prediction in Stochastic Two-Player Zero-Sum Games with a Deep Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0952197623008485), **Dawen Wu**, Abdel Lisser, Engineering Applications of Artificial Intelligence</ins>. **_(JCR: Q1, IF: 8.0)_**
+6. [Improved Saddle Point Prediction in Stochastic Two-Player Zero-Sum Games with a Deep Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0952197623008485), **Dawen Wu**, Abdel Lisser, <ins>Engineering Applications of Artificial Intelligence</ins>. **_(JCR: Q1, IF: 8.0)_**
 
 7. Enhancing Neurodynamic Approach with Physics-Informed Neural Networks for Solving Non-Smooth Convex Optimization Problems, **Dawen Wu**, Abdel Lisser, <ins>Neural Networks</ins>. **_(Accept, to appear)_**
  
