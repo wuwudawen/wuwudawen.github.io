@@ -34,7 +34,7 @@ My Ph.D. research focuses on leveraging machine learning models to tackle variou
  
 3. [MG-CNN: A Deep CNN To Predict Saddle Points Of Matrix Games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022003586), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. **_(JCR: Q1, IF: 7.8)_**
 
-4. [Using CNN for solving two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0957417422008648), **Dawen Wu**, Abdel Lisser, \underline{Expert Systems With Applications}, 2022. **_(JCR: Q1, IF: 8.5)_**
+4. [Using CNN for solving two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0957417422008648), **Dawen Wu**, Abdel Lisser, <ins>Expert Systems With Applications<ins>, 2022. **_(JCR: Q1, IF: 8.5)_**
  
 5. [A dynamical neural network approach for solving stochastic two-player zero-sum games](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001381), **Dawen Wu**, Abdel Lisser, Neural Networks, 2022. **_(JCR: Q1, IF: 7.8)_**
 
