@@ -42,7 +42,7 @@ My Ph.D. research focuses on leveraging machine learning models to tackle variou
 
 7. Enhancing Neurodynamic Approach with Physics-Informed Neural Networks for Solving Non-Smooth Convex Optimization Problems, **Dawen Wu**, Abdel Lisser, <ins>Neural Networks</ins>. **_(Accept, to appear)_**
  
-8. Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions, **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. **_(Major revision)_**
+8. Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions, **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. **_(Accept, to appear)_**
 
 9. Parallel Solution of Nonlinear Projection Equations with Physics-Informed Neural Networks in a Multi-Task Learning Framework, **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>. **_(Reject & Resubmit)_**
 
