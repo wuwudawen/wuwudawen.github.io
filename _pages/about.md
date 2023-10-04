@@ -65,8 +65,8 @@ Invited Reviewer (Journal):
   * European Journal of Control
   * Journal of Global Optimization
   * Machine Learning Journal
-
-
+  * Engineering Applications of Artificial Intelligence
+  * IEEE Transactions on Cybernetics
 
 ## Skills
 
