@@ -15,8 +15,8 @@ My academic background is in applied mathematics, with research interests includ
 
 My Ph.D. research focuses on using machine learning to solve various challenging optimization problems. My research can be divided into two parts:
 
-* Using CNN-based models to predict Nash equilibria in game theory, as explored in the following references 3, 4, and 10.
-* Using Physics-Informed Neural Networks to solve constrained nonlinear optimization problems, including but not limited to convex optimization, as explored in the following references 1, 2, 5, 6, 7, 8, and 9.
+* Using CNN-based models to predict Nash equilibria in game theory, corresponding to the following references 3, 4, and 10.
+* Using Physics-Informed Neural Networks to solve constrained nonlinear optimization problems, including but not limited to convex optimization, corresponding to the following references 1, 2, 5, 6, 7, 8, and 9.
 
 ## Education
 * **B.S.** in School of Economics and Management, Civil Aviation University of China, 2013-2017.
