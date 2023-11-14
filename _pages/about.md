@@ -18,7 +18,8 @@ My Ph.D. research focuses on using machine learning to solve various challenging
 * Using CNN-based models to predict Nash equilibria in game theory, corresponding to the following references 3, 4, and 10.
 * Using Physics-Informed Neural Networks to solve constrained nonlinear optimization problems, including but not limited to convex optimization, corresponding to the following references 1, 2, 5, 6, 7, 8, and 9.
 
-**Next position: I will be a CNRS research fellow working on the [Descartes](https://www.cnrsatcreate.cnrs.fr/descartes/) project.**
+<span style="color:red">**Next position: I will be a CNRS research fellow working on the [Descartes](https://www.cnrsatcreate.cnrs.fr/descartes/) program.**</span>
+
 
 ## Education
 * **B.S.** in School of Economics and Management, Civil Aviation University of China, 2013-2017.
