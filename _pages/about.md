@@ -50,9 +50,9 @@ My Ph.D. research focuses on using machine learning to solve various challenging
  
 8. <span style="color:red">[Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377), **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. </span>
 
-9. Parallel Solution of Nonlinear Projection Equations with Physics-Informed Neural Networks in a Multi-Task Learning Framework, **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>. **_(Accept, to appear)_**
+9. <span style="color:red">Parallel Solution of Nonlinear Projection Equations with Physics-Informed Neural Networks in a Multi-Task Learning Framework, **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>. **_(Accept, to appear)_**</span>
 
-10. [Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>.
+10. <span style="color:red">[Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>.</span>
 
 11. Solving Constrained Pseudoconvex Optimization Problems with Deep Learning-Based Neurodynamic Optimization, **Dawen Wu**, Abdel Lisser, <ins>Mathematics and Computers in Simulation</ins>. **_(Accept, to appear)_**
 
