@@ -31,6 +31,9 @@ My Ph.D. research focuses on using machine learning to solve various challenging
             Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr/Jean-Charles.Gilbert/ipp/optim.html), 2) [Optimization and statistical learning](https://www.di.ens.fr/~fbach/orsay2021.html), 3) Stability of nonlinear systems.
 
 ## Publications and Undergoing papers
+
+<span style="color:red">(Selected works are highlighted in red.)</span>
+
 1. [CCGnet: A deep learning approach to predict Nash equilibrium of chance-constrained games](https://www.sciencedirect.com/science/article/abs/pii/S0020025523000646), **Dawen Wu**, Abdel Lisser, <ins>Information Sciences</ins>, 2023. 
 
 2. [A deep learning approach for solving linear programming problems](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014412), **Dawen Wu**, Abdel Lisser, <ins>Neurocomputing</ins>, 2023. 
