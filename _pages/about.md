@@ -49,7 +49,9 @@ My Ph.D. research focuses on using machine learning to solve various challenging
 
 9. Parallel Solution of Nonlinear Projection Equations with Physics-Informed Neural Networks in a Multi-Task Learning Framework, **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>. **_(Accept, to appear)_**
 
-10. [Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>. **_(Accept, to appear)_**
+10. [Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>.
+
+11. Solving Constrained Pseudoconvex Optimization Problems with Deep Learning-Based Neurodynamic Optimization, **Dawen Wu**, Abdel Lisser, <ins>Mathematics and Computers in Simulation</ins>. **_(Accept, to appear)_**
 
 ## Prsentations
 * Laboratoire des Signaux et Systèmes (L2S) PhD students day, Gif-sur-Yvette, Sep. 15, 2022  
