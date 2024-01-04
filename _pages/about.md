@@ -32,7 +32,7 @@ My Ph.D. research focuses on using machine learning to solve various challenging
 
 ## Publications and Undergoing papers
 
-(**Selected works.)
+(<span style="color:red">**</span> Selected works.)
 
 1. [CCGnet: A deep learning approach to predict Nash equilibrium of chance-constrained games](https://www.sciencedirect.com/science/article/abs/pii/S0020025523000646), **Dawen Wu**, Abdel Lisser, <ins>Information Sciences</ins>, 2023. 
 
@@ -48,11 +48,11 @@ My Ph.D. research focuses on using machine learning to solve various challenging
 
 7. [Enhancing Neurodynamic Approach with Physics-Informed Neural Networks for Solving Non-Smooth Convex Optimization Problems](https://www.sciencedirect.com/science/article/abs/pii/S0893608023004331), **Dawen Wu**, Abdel Lisser, <ins>Neural Networks</ins>. 
  
-8. [Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377), **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. **
+8. <span style="color:red">**</span> [Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377), **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. 
 
-9. Parallel Solution of Nonlinear Projection Equations with Physics-Informed Neural Networks in a Multi-Task Learning Framework, **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>. **_(Accept, to appear)_** **
+9. <span style="color:red">**</span> Parallel Solution of Nonlinear Projection Equations with Physics-Informed Neural Networks in a Multi-Task Learning Framework, **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>. **_(Accept, to appear)_**
 
-10. [Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>. **
+10. <span style="color:red">**</span> [Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>. 
 
 11. Solving Constrained Pseudoconvex Optimization Problems with Deep Learning-Based Neurodynamic Optimization, **Dawen Wu**, Abdel Lisser, <ins>Mathematics and Computers in Simulation</ins>. **_(Accept, to appear)_**
 
