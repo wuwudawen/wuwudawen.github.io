@@ -12,7 +12,7 @@ I am Dawen Wu (吴达文), a Research Fellow at CNRS@CREATE, working with [Prof.
 Before that, I was a Ph.D. candidate in Université Paris-Saclay, CNRS, CentraleSupélec, Laboratory of
 Signals and Systems supervised by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).
 
-I build machine learning based solvers for various optimization problems :smirk:.
+I build machine learning based solvers for various optimization tasks :smirk:.
 
 ## Education
 * **B.S.** in School of Economics and Management, Civil Aviation University of China, 2013-2017.
