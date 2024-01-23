@@ -8,18 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Dawen Wu (吴达文), a Ph.D. candidate in [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), CNRS, CentraleSupélec, [Laboratory of
-Signals and Systems](https://l2s.centralesupelec.fr/en/) supervised by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/). Before that, I received my Master’s degree in computer science from [Peking University](https://english.pku.edu.cn/). 
+I am Dawen Wu (吴达文), a Research Fellow at CNRS@CREATE, working with [Prof. Ludovic Chamoin](https://scholar.google.fr/citations?user=uxjp8e0AAAAJ&hl=fr), [Prof. Pierre Senellart](https://pierre.senellart.com/) and [Prof. Stephane Bressan](https://www.comp.nus.edu.sg/~steph/).
+Before that, I was a Ph.D. candidate in Université Paris-Saclay, CNRS, CentraleSupélec, Laboratory of
+Signals and Systems supervised by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).
 
-My academic background is in applied mathematics, with research interests including optimization, game theory, and machine learning.
-
-My Ph.D. research focuses on using machine learning to solve various challenging optimization problems. My research can be divided into two parts:
-
-* Using CNN-based models to predict Nash equilibria in game theory, corresponding to the following references 3, 4, and 10.
-* Using Physics-Informed Neural Networks to solve constrained nonlinear optimization problems, including but not limited to convex optimization, corresponding to the following references 1, 2, 5, 6, 7, 8, and 9.
-
-<span style="color:red">**Next position: I will be a CNRS research fellow working on the [Descartes](https://www.cnrsatcreate.cnrs.fr/descartes/) program.**</span>
-
+I build machine learning based solvers for various optimization problems :smirk:.
 
 ## Education
 * **B.S.** in School of Economics and Management, Civil Aviation University of China, 2013-2017.
