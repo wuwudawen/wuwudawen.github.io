@@ -68,6 +68,7 @@ Invited Reviewer (Journal):
   * Machine Learning Journal
   * Engineering Applications of Artificial Intelligence
   * IEEE Transactions on Cybernetics
+  * Neural Networks
 
 ## Skills
 
