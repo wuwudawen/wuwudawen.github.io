@@ -50,6 +50,8 @@ I build machine learning based solvers for various optimization tasks :smirk:.
 11. Solving Constrained Pseudoconvex Optimization Problems with Deep Learning-Based Neurodynamic Optimization, **Dawen Wu**, Abdel Lisser, <ins>Mathematics and Computers in Simulation</ins>. **_(Accept, to appear)_**
 
 ## Prsentations
+* Weekly meeting at Stephane's group, Singapore, Feb. 07, 2024  
+**Title:** Transport Map. [Slide](http://wuwudawen.github.io/files/slide4.pdf)
 * Laboratoire des Signaux et Systèmes (L2S) PhD students day, Gif-sur-Yvette, Sep. 15, 2022  
 **Title:** Optimization-informed neural networks. [Slide](http://wuwudawen.github.io/files/slide4.pdf)
 * ECSO-CMS-2022 Conference, Venice, July 1, 2022  
