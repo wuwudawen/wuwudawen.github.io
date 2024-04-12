@@ -67,7 +67,7 @@ Invited Reviewer (Journal):
   * IEEE Transactions on Neural Networks and Learning Systems
   * European Journal of Control
   * Journal of Global Optimization
-  * Machine Learning Journal
+  * Machine Learning
   * Engineering Applications of Artificial Intelligence
   * IEEE Transactions on Cybernetics
   * Neural Networks
