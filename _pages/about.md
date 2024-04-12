@@ -71,6 +71,7 @@ Invited Reviewer (Journal):
   * Engineering Applications of Artificial Intelligence
   * IEEE Transactions on Cybernetics
   * Neural Networks
+  * Nonlinear Dynamics
 
 ## Skills
 
