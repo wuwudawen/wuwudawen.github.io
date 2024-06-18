@@ -31,7 +31,7 @@ I develop machine learning-based solvers for a variety of mathematical problems.
 
 3. [Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>.  <span style="color:red"></span>
 
-4. [Parallel Solution of Nonlinear Projection Equations in a Multitask Learning Framework](https://ieeexplore.ieee.org/abstract/document/10412653/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>.  <span style="color:red"></span>
+4. [Parallel Solution of Nonlinear Projection Equations in a Multitask Learning Framework](https://ieeexplore.ieee.org/abstract/document/10412653/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>.  <span style="color:red"></span>
 
 5. [Enhancing neurodynamic approach with physics-informed neural networks for solving non-smooth convex optimization problems](https://www.sciencedirect.com/science/article/abs/pii/S0893608023004331), **Dawen Wu**, Abdel Lisser, <ins> Neural Networks
 </ins>. 
