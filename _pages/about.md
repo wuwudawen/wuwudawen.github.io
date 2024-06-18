@@ -25,11 +25,11 @@ I develop machine learning-based solvers for a variety of mathematical problems.
 
 ## Selected papers
 
-1. [Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377), **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. <span style="color:red">**</span>
+1. [Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377), **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. <span style="color:red"></span>
 
 2. Solving Large-Scale Variational Inequalities with Dynamically Adjusting Initial Condition in Physics-Informed Neural Networks, **Dawen Wu**, Ludovic Chamoin, Abdel Lisser, <ins>Computer Methods in Applied Mechanics and Engineering</ins>. **_(Accept, to appear)_**
 
-3. [Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>.  <span style="color:red">**</span>
+3. [Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>.  <span style="color:red"></span>
 
 4. [Enhancing neurodynamic approach with physics-informed neural networks for solving non-smooth convex optimization problems](https://www.sciencedirect.com/science/article/abs/pii/S0893608023004331), **Dawen Wu**, Abdel Lisser, <ins> Neural Networks
 </ins>. 
