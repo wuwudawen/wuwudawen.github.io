@@ -27,14 +27,13 @@ I develop machine learning-based solvers for a variety of mathematical problems.
 
 1. [Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377), **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. <span style="color:red"></span>
 
-2. Solving Large-Scale Variational Inequalities with Dynamically Adjusting Initial Condition in Physics-Informed Neural Networks, **Dawen Wu**, Ludovic Chamoin, Abdel Lisser, <ins>Computer Methods in Applied Mechanics and Engineering</ins>. **_(Accept, to appear)_**
+2. [Solving Large-Scale Variational Inequalities with Dynamically Adjusting Initial Condition in Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0045782524004122), **Dawen Wu**, Ludovic Chamoin, Abdel Lisser, <ins>Computer Methods in Applied Mechanics and Engineering</ins>. <span style="color:red"></span>
 
 3. [Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>.  <span style="color:red"></span>
 
 4. [Parallel Solution of Nonlinear Projection Equations in a Multitask Learning Framework](https://ieeexplore.ieee.org/abstract/document/10412653/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>.  <span style="color:red"></span>
 
-5. [Enhancing neurodynamic approach with physics-informed neural networks for solving non-smooth convex optimization problems](https://www.sciencedirect.com/science/article/abs/pii/S0893608023004331), **Dawen Wu**, Abdel Lisser, <ins> Neural Networks
-</ins>. 
+5. Separable Hamiltonian Neural Networks, Zi-Yu Khoo, **Dawen Wu**, Jonathan Sze Choong Low, Stéphane Bressan <ins> Physical Review E </ins>. **_(Accept, to appear)_**
 
 ## Prsentations
 * National University of Singapore, Singapore, Feb. 07, 2024  
@@ -62,6 +61,5 @@ Invited Reviewer (Journal):
 
 ## Skills
 
-* Languages: Cantonese (Native), Mandarin (Native), English (Fluent), French (Good enough to survive in [CROUS](https://www.crous-versailles.fr/restaurant/ru-centralesupelec-breguet/)).
 * Programming: Python, Julia.
 * Machine Learning: PyTorch, JAX.
