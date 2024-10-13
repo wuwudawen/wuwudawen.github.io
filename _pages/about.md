@@ -19,7 +19,7 @@ I develop machine learning-based solvers for a variety of mathematical problems.
 * **M.S.** in Computer Science, Peking University, 2017-2020.  
             Advisor: Prof. [Zhong Chen](https://infosec.pku.edu.cn/zsxx/bszs/index.htm).   
             Selected coures: 1) Convex optimization, 2) Machine learning, 3) Reinforcement learning    
-* **Ph.D.** Candidate in Applied Mathematics, Université Paris-Saclay, 2020-2023 (Defensed on 30th Nov.).  
+* **Ph.D.** Candidate in Applied Mathematics, Université Paris-Saclay, 2020-.  
             Advisor: Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).  
             Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr/Jean-Charles.Gilbert/ipp/optim.html), 2) [Optimization and statistical learning](https://www.di.ens.fr/~fbach/orsay2021.html), 3) Stability of nonlinear systems.
 
