@@ -33,7 +33,7 @@ I develop machine learning-based solvers for a variety of mathematical problems.
 
 4. [Parallel Solution of Nonlinear Projection Equations in a Multitask Learning Framework](https://ieeexplore.ieee.org/abstract/document/10412653/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>.  <span style="color:red"></span>
 
-5. [Separable Hamiltonian Neural Networks]([https://ieeexplore.ieee.org/abstract/document/10412653/](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.044205)), Zi-Yu Khoo, **Dawen Wu\***, Jonathan Sze Choong Low, Stéphane Bressan <ins> Physical Review E </ins>. **_(\*Corresponding author)_**
+5. [Separable Hamiltonian Neural Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.044205), Zi-Yu Khoo, **Dawen Wu\***, Jonathan Sze Choong Low, Stéphane Bressan <ins> Physical Review E </ins>. **_(\*Corresponding author)_**
 
 6. Error Bound Analysis of Physics-Informed Neural Networks for Solving Nonlinear Projection Equations,  **Dawen Wu**, Abdel Lisser <ins> Journal of Optimization Theory and Applications
  </ins>. **_(Minor revision)_**
