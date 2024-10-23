@@ -15,11 +15,11 @@ Signals and Systems supervised by Prof. [Abdel Lisser](https://l2s.centralesupel
 I develop machine learning-based solvers for a variety of mathematical problems.
 
 ## Education
-* **B.S.** in School of Economics and Management, Civil Aviation University of China.
+* **B.S.** in Economics and Management, Civil Aviation University of China.
 * **M.S.** in Computer Science, Peking University.  
             Advisor: Prof. [Zhong Chen](https://infosec.pku.edu.cn/zsxx/bszs/index.htm).   
             Selected coures: 1) Convex optimization, 2) Machine learning, 3) Reinforcement learning    
-* **Ph.D.** Candidate in Applied Mathematics, Université Paris-Saclay.  
+* **Ph.D.** in Applied Mathematics, Université Paris-Saclay.  
             Advisor: Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).  
             Selected coures: 1) [Advanced continuous optimization](https://who.rocq.inria.fr/Jean-Charles.Gilbert/ipp/optim.html), 2) [Optimization and statistical learning](https://www.di.ens.fr/~fbach/orsay2021.html), 3) Stability of nonlinear systems.
 
