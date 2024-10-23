@@ -35,6 +35,9 @@ I develop machine learning-based solvers for a variety of mathematical problems.
 
 5. [Separable Hamiltonian Neural Networks]([https://ieeexplore.ieee.org/abstract/document/10412653/](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.044205)), Zi-Yu Khoo, **Dawen Wu\***, Jonathan Sze Choong Low, Stéphane Bressan <ins> Physical Review E </ins>. **_(\*Corresponding author)_**
 
+6. Error Bound Analysis of Physics-Informed Neural Networks for Solving Nonlinear Projection Equations,  **Dawen Wu**, Abdel Lisser <ins> Journal of Optimization Theory and Applications
+ </ins>. **_(Minor revision)_**
+
 ## Prsentations
 * National University of Singapore, Singapore, Feb. 07, 2024  
 **Title:** Transport Map. [Slide](http://wuwudawen.github.io/files/slide5.pdf)
