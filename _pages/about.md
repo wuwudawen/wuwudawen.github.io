@@ -29,14 +29,16 @@ I develop machine learning-based solvers for a variety of mathematical problems.
 
 2. [Solving Large-Scale Variational Inequalities with Dynamically Adjusting Initial Condition in Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0045782524004122), **Dawen Wu**, Ludovic Chamoin, Abdel Lisser, <ins>Computer Methods in Applied Mechanics and Engineering</ins>. <span style="color:red"></span>
 
-3. [Predicting Nash Equilibria in Bimatrix Games using a Robust Bi-channel Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/10269785/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Artificial Intelligence</ins>.  <span style="color:red"></span>
+3. [Parallel Solution of Nonlinear Projection Equations in a Multitask Learning Framework](https://ieeexplore.ieee.org/abstract/document/10412653/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>.  <span style="color:red"></span>
 
-4. [Parallel Solution of Nonlinear Projection Equations in a Multitask Learning Framework](https://ieeexplore.ieee.org/abstract/document/10412653/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>.  <span style="color:red"></span>
+4. [Separable Hamiltonian Neural Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.044205), Zi-Yu Khoo, **Dawen Wu\***, Jonathan Sze Choong Low, Stéphane Bressan <ins> Physical Review E </ins>. **_(\*Corresponding author)_**
 
-5. [Separable Hamiltonian Neural Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.044205), Zi-Yu Khoo, **Dawen Wu\***, Jonathan Sze Choong Low, Stéphane Bressan <ins> Physical Review E </ins>. **_(\*Corresponding author)_**
+5. Error Bound Analysis of Physics-Informed Neural Networks for Solving Nonlinear Projection Equations,  **Dawen Wu**, Abdel Lisser <ins> Journal of Optimization Theory and Applications
+ </ins>. **_(Accept, to appear)_**
 
-6. Error Bound Analysis of Physics-Informed Neural Networks for Solving Nonlinear Projection Equations,  **Dawen Wu**, Abdel Lisser <ins> Journal of Optimization Theory and Applications
- </ins>. **_(Minor revision)_**
+6. Neural Triangular Map for Density Estimation and Sampling with Application to Bayesian Inference,  **Dawen Wu**, Ludovic Chamoin, Stéphane Bressan
+ <ins> Journal of Computational Physics
+ </ins>. **_(Accept, to appear)_**
 
 ## Prsentations
 * National University of Singapore, Singapore, Feb. 07, 2024  
