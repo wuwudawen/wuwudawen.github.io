@@ -36,9 +36,9 @@ I develop machine learning-based solvers for a variety of mathematical problems.
 
 5. [Parallel Solution of Nonlinear Projection Equations in a Multitask Learning Framework](https://ieeexplore.ieee.org/abstract/document/10412653/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>.  <span style="color:red"></span>
 
-6. Approximations of the Inverse Cumulative Distribution Function using Transport Maps and Physics-informed Neural Networks, **Dawen Wu**, Ludovic Chamoin, <ins>Inverse Problems</ins>.  <span style="color:red"></span> **_(Reject \& Resubmit)_**
+6. Reformulating Chance-Constrained Optimization as Neural Network Learning, **Dawen Wu**, Ludovic Chamoin, Abdel Lisser <ins>European Journal of Operational Research</ins>.  <span style="color:red"></span> **_(Major Revision)_**
 
-7. Reformulating Chance-Constrained Optimization as Neural Network Learning, **Dawen Wu**, Ludovic Chamoin, Abdel Lisser<ins>European Journal of Operational Research</ins>.  <span style="color:red"></span> **_(Major Revision)_**
+7. Approximations of the Inverse Cumulative Distribution Function using Transport Maps and Physics-informed Neural Networks, **Dawen Wu**, Ludovic Chamoin, <ins>Inverse Problems</ins>.  <span style="color:red"></span> **_(Reject \& Resubmit)_**
 
 ## Prsentations
 * National University of Singapore, Singapore, Feb. 07, 2024  
