@@ -25,20 +25,18 @@ I develop machine learning-based solvers for a variety of mathematical problems.
 
 ## Selected papers
 
-1. [Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377), **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. <span style="color:red"></span>
+1. [Neural Triangular Map for Density Estimation and Sampling with Application to Bayesian Inference](https://www.sciencedirect.com/science/article/pii/S0021999125004917),  **Dawen Wu**, Ludovic Chamoin, Stéphane Bressan
+ <ins> Journal of Computational Physics</ins>. 
 
 2. [Solving Large-Scale Variational Inequalities with Dynamically Adjusting Initial Condition in Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0045782524004122), **Dawen Wu**, Ludovic Chamoin, Abdel Lisser, <ins>Computer Methods in Applied Mechanics and Engineering</ins>. <span style="color:red"></span>
 
-3. [Parallel Solution of Nonlinear Projection Equations in a Multitask Learning Framework](https://ieeexplore.ieee.org/abstract/document/10412653/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>.  <span style="color:red"></span>
+3. [Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377), **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. <span style="color:red"></span>
 
 4. [Separable Hamiltonian Neural Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.044205), Zi-Yu Khoo, **Dawen Wu\***, Jonathan Sze Choong Low, Stéphane Bressan <ins> Physical Review E </ins>. **_(\*Corresponding author)_**
 
-5. Error Bound Analysis of Physics-Informed Neural Networks for Solving Nonlinear Projection Equations,  **Dawen Wu**, Abdel Lisser <ins> Journal of Optimization Theory and Applications
- </ins>. **_(Accept, to appear)_**
+5. [Parallel Solution of Nonlinear Projection Equations in a Multitask Learning Framework](https://ieeexplore.ieee.org/abstract/document/10412653/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>.  <span style="color:red"></span>
 
-6. Neural Triangular Map for Density Estimation and Sampling with Application to Bayesian Inference,  **Dawen Wu**, Ludovic Chamoin, Stéphane Bressan
- <ins> Journal of Computational Physics
- </ins>. **_(Accept, to appear)_**
+6. Approximations of the Inverse Cumulative Distribution Function using Transport Maps and Physics-informed Neural Networks, **Dawen Wu**, Ludovic Chamoin, <ins>Inverse Problems </ins>.  <span style="color:red"></span> **_(Reject \& Resubmit)_**
 
 ## Prsentations
 * National University of Singapore, Singapore, Feb. 07, 2024  
