@@ -55,11 +55,14 @@ I develop machine learning-based solvers for a variety of mathematical problems.
 ## Academic Service
 <!-- * Invited Reviewer (Conference): IJCAI -->
 Invited Reviewer (Journal): 
+  * Journal of Computational Physics
   * IEEE Transactions on Neural Networks and Learning Systems
   * European Journal of Control
   * Journal of Global Optimization
   * Machine Learning
   * Engineering Applications of Artificial Intelligence
+  * Expert Systems With Applications
+  * Computer Physics Communications 
   * IEEE Transactions on Cybernetics
   * Neural Networks
   * Nonlinear Dynamics
