@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Dawen Wu (吴达文), a Research Fellow at CNRS@CREATE, working with [Prof. Ludovic Chamoin](https://scholar.google.fr/citations?user=uxjp8e0AAAAJ&hl=fr), [Prof. Pierre Senellart](https://pierre.senellart.com/) and [Prof. Stephane Bressan](https://www.comp.nus.edu.sg/~steph/).
+I am Dawen Wu (吴达文), a Research Fellow at CNRS@CREATE, working with Prof. Ludovic Chamoin, Prof. Pierre Senellart, Prof. Stephane Bressan, Prof. Ammine Ammar, and Prof. Francisco (Paco) Chinesta.
 Previously, I was a Ph.D. candidate in Université Paris-Saclay, CNRS, CentraleSupélec, Laboratory of
-Signals and Systems supervised by Prof. [Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/).
+Signals and Systems supervised by Prof. Abdel Lisser.
 
 I develop machine learning-based solvers for a variety of mathematical problems.
 
