@@ -15,6 +15,8 @@ Signals and Systems supervised by Prof. Abdel Lisser.
 
 I develop machine learning-based solvers for a variety of mathematical problems.
 
+$\color{red}{\text{**Update:** I have been awarded the NTU AI4X Fellowship and will be starting in April 2026.}}$
+
 ## Education
 * **B.S.** in Economics and Management, Civil Aviation University of China.
 * **M.S.** in Computer Science, Peking University.  
