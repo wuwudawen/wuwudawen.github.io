@@ -16,6 +16,7 @@ Signals and Systems supervised by Prof. Abdel Lisser.
 I develop machine learning-based solvers for a variety of mathematical problems.
 
 **Update:** I have been awarded the NTU AI4X Fellowship and will be starting in April 2026.
+**New email:** dawen.wu@ntu.edu.sg or wuwudawen@gmail.com
 
 ## Education
 * **B.S.** in Economics and Management, Civil Aviation University of China.
