@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dawen Wu"
   avatar           : "dwwu-photo.jpg"
-  bio              : "dawen.wu@cnrsatcreate.sg"
+  bio              : "dawen.wu@ntu.edu.sg"
   location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?hl=en&user=QzXplO8AAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "dawen.wu@cnrsatcreate.sg"
+  email            : "dawen.wu@ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
