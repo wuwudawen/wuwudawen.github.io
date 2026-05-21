@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Dawen Wu (吴达文), a Research Fellow at CNRS@CREATE, working with Prof. Ludovic Chamoin, Prof. Pierre Senellart, Prof. Stephane Bressan, Prof. Ammine Ammar, and Prof. Francisco (Paco) Chinesta.
+I am Dawen Wu (吴达文), an [NTU AI4X Postdoctoral Fellow at Nanyang Technological University](https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship), working with Prof. Ariel Neufeld.
 
-Previously, I was a Ph.D. candidate in Université Paris-Saclay, CNRS, CentraleSupélec, Laboratory of
-Signals and Systems supervised by Prof. Abdel Lisser.
+Previously, I was a Research Fellow at CNRS@CREATE, working with Prof. Ludovic Chamoin, Prof. Pierre Senellart, Prof. Stéphane Bressan, Prof. Amine Ammar, and Prof. Francisco (Paco) Chinesta.
 
-I develop machine learning-based solvers for a variety of mathematical problems.
+I received my Ph.D. in Applied Mathematics from Université Paris-Saclay, CNRS, CentraleSupélec, and the Laboratory of Signals and Systems, under the supervision of Prof. Abdel Lisser.
 
-**Update:** I am now the NTU AI4X Postdoctoral Fellow, working with Prof. Ariel Neufeld.
+My research focuses on developing AI solvers for mathematical and physical problems.
 
-**New email:** dawen.wu@ntu.edu.sg or wuwudawen@gmail.com
+Email: dawen.wu@ntu.edu.sg or wuwudawen@gmail.com
+
+[CV](/files/Dawen_Wu_CV.pdf)
 
 ## Education
 * **B.S.** in Economics and Management, Civil Aviation University of China.
