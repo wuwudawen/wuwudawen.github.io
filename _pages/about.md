@@ -16,10 +16,6 @@ I received my Ph.D. in Applied Mathematics from Université Paris-Saclay, CNRS, 
 
 My research focuses on developing AI solvers for mathematical and physical problems.
 
-Email: dawen.wu@ntu.edu.sg or wuwudawen@gmail.com
-
-[CV](/files/Dawen_Wu_CV.pdf)
-
 ## Education
 * **B.S.** in Economics and Management, Civil Aviation University of China.
 * **M.S.** in Computer Science, Peking University.  
