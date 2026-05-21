@@ -88,6 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?hl=en&user=QzXplO8AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "dawen.wu@ntu.edu.sg"
+  cv               : "/files/Dawen_Wu_CV.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
