@@ -32,15 +32,11 @@ My research focuses on developing AI solvers for mathematical and physical probl
 
 2. [Solving Large-Scale Variational Inequalities with Dynamically Adjusting Initial Condition in Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0045782524004122), **Dawen Wu**, Ludovic Chamoin, Abdel Lisser, <ins>Computer Methods in Applied Mechanics and Engineering</ins>. <span style="color:red"></span>
 
-3. [Neuro-PINN: A Hybrid Framework for Efficient Nonlinear Projection Equation Solutions](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377), **Dawen Wu**, Abdel Lisser, <ins>International Journal for Numerical Methods in Engineering</ins>. <span style="color:red"></span>
+3. [Residual correction for POD-Galerkin reduced order models via conditional VAEs: Application to the bias-aware solution of forward and inverse problems]([https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377](https://www.sciencedirect.com/science/article/pii/S004578252500800X)), **Dawen Wu**, Ludovic Chamoin, <ins>Computer Methods in Applied Mechanics and Engineering</ins>. <span style="color:red"></span>
 
 4. [Separable Hamiltonian Neural Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.044205), Zi-Yu Khoo, **Dawen Wu\***, Jonathan Sze Choong Low, Stéphane Bressan, <ins> Physical Review E </ins>. **_(\*Corresponding author)_**
 
 5. [Parallel Solution of Nonlinear Projection Equations in a Multitask Learning Framework](https://ieeexplore.ieee.org/abstract/document/10412653/), **Dawen Wu**, Abdel Lisser, <ins>IEEE Transactions on Neural Networks and Learning Systems</ins>.  <span style="color:red"></span>
-
-6. Reformulating Chance-Constrained Optimization as Neural Network Learning, **Dawen Wu**, Ludovic Chamoin, Abdel Lisser, <ins>European Journal of Operational Research</ins>.  <span style="color:red"></span> **_(Major Revision)_**
-
-7. Approximations of the Inverse Cumulative Distribution Function using Transport Maps and Physics-informed Neural Networks, **Dawen Wu**, Ludovic Chamoin, <ins>Inverse Problems</ins>.  <span style="color:red"></span> **_(Reject \& Resubmit)_**
 
 ## Prsentations
 * National University of Singapore, Singapore, Feb. 07, 2024  
